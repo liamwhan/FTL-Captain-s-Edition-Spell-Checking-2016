@@ -7884,7 +7884,7 @@
 		<damage amount="0" system="random" effect="breach"/>
 	</event>
 	<event>
-		<text>The young Rebel Captain hails you. "Cease fire! Please, we can't go on like this. My crew and I where never really aboard for this whole Rebellion anyway. We have made up our minds: We surrender. You can take us prisoner, the Rebels might agree to an exchange. At last this way the Federation will get something out of insubordinate. I'm sorry to have betrayed us all.</text>
+		<text>The young Rebel Captain hails you. "Cease fire! Please, we can't go on like this. My crew and I were never really on board with this whole Rebellion anyway. We have made up our minds: We surrender. You can take us prisoner, the Rebels might agree to an exchange. At least this way the Federation will get something out of our insubordination. I'm sorry to have betrayed us all.</text>
 		<choice hidden="true"> 
 			<text>Pardon the Captain and allow him to join your crew.</text>
 			<event load="CE_REBEL_TURNCOAT_JOIN"/>
